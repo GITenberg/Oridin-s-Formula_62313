@@ -1,0 +1,40 @@
+_repo: Oridin-s-Formula_62313
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Doolin, Joseph
+    alias: Doolin, Joseph Patrick
+    birthdate: 1896
+    deathdate: 1967
+    gutenberg_agent_id: '51844'
+    url: http://www.gutenberg.org/2009/agents/51844
+creator:
+  author:
+    agent_name: Winterbotham, R. R. (Russell Robert)
+    aliases:
+    - Winterbotham, R.R.
+    - Winterbotham, Russ
+    - Winterbotham, Russell Robert
+    birthdate: 1904
+    deathdate: 1971
+    gutenberg_agent_id: '25195'
+    url: http://www.gutenberg.org/2009/agents/25195
+    wikipedia: https://en.wikipedia.org/wiki/Russell_R._Winterbotham
+description: ''
+gutenberg_issued: '2020-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62313'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Asteroids -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Hermits -- Fiction'
+- !lcsh 'Science fiction'
+- GITenberg
+title: Oridin's Formula
+url: http://www.gutenberg.org/ebooks/62313
